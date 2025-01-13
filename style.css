@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.vv {
+  text-align: center;
+  color: yellow;
+  font-family: sans-serif;
+  letter-spacing: 3px;
+}
+
+.kosmos {
+  
+}
+
+.nn {
+  color: white;
+  text-align: center;
+}
+
+.tt {
+  color: green;
+}
+
+.mm {
+  width: 380px;
+  height: 550px;
+  border: 5px solid yellow;
+}
+
+.kk {
+  width: 380px;
+  height: 550px;
+  border: 5px solid yellow;
+}
+
+.table {
+  color: white;
+  width: 100%;
+  margin: 0% auto;
+  margin-top: 40px;
+  border-collapse: collapse;
+}
+
+.table th,
+td {
+  border: 1px solid orange;
+  text-align: center;
+  padding: 10px;
+}
+.ff p {
+font-size: 14px;
+text-align: center;
+}
+.ff input {
+    width: 96%;
+    padding: 12px 20px;
+    border-radius: 20px;
+}
+.ff button {
+    padding: 10px 100px;
+    border-radius: 50px;
+    background-color: yellow;
+    font-size: 18px;
+    margin: 0% auto;
+    display: block;
+}
